@@ -16,12 +16,12 @@ The main objective of this project is to analyze sales data and deliver a user-f
 ---
 
 ## 📁 Project Structure
-Sales-Dashboard-PowerBI/
-├── task4.pbix # Power BI dashboard file
-├── Salesreport.csv # Sales dataset used for visualization
-├── task4.pptx # PowerPoint presentation summarizing the dashboard
-├── dashboard.png # Image of the final dashboard
-└── README.md # Project documentation
+📂 Sales-Dashboard-PowerBI/
+├── Dashboard.pbix # Power BI dashboard file with all visuals
+├── sales_data.csv # Sales dataset used for the dashboard (from Kaggle or other source)
+├── dashboard_screenshot.png # Image showing the final dashboard (used in README or PPT)
+├── PPT-Presentation.pptx # PowerPoint summary presentation of the analysis
+└── README.md # Project documentation file
 
 
 ---
